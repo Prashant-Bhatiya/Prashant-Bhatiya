@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently learning **React,MERN Stack**
 
-- 👨‍💻 All of my projects are available at 
-- [https://prashant-bhatiya-portfolio.vercel.app//)
+- 👨‍💻 All of my projects are available at **[https://prashant-bhatiya-portfolio.vercel.app//)**
 
 - 💬 Ask me about **JavaScript, Data Structure & Algorithm**
 
