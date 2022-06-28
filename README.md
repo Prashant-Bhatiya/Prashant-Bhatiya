@@ -44,7 +44,3 @@
 <a href="https://github.com/Prashant-Bhatiya/Shopbop.github.io" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Shopbop&color=ff9b65&logo=Shopbop&logoColor=FFFFFF&label=" alt="shopbop" /></a> &nbsp;
  <a href="https://github.com/Nitish8800/BewaKoof_Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bewakoof&color=ec4861&logo=bewakoof&logoColor=FFC504&label=" alt="bewakoof"/></a> 
 </p>
-
-## Stats📈 
-
-<p align="left"> <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant-Bhatiya&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&layout=compact&hide_border=true" alt="PrashantBhatiya" /></p>  <p align="left"> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-Bhatiya&theme=highcontrast&hide_border=true" alt="PrashantBhatiya" /></p>
