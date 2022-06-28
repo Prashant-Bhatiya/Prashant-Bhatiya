@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **webdeveloper.prashant@gmail.com**
 
-- 📄 Know about my projects [Click Here]([https://drive.google.com/file/d/1z5GrJ61REvhkqV6WbOqs1iquWVre2kH8/view?usp=sharing](https://drive.google.com/file/d/1O7xhA8i7gXYA1y59pczYrXhMA9bwW6pu/view?usp=sharing))
+- 📄 Know about my projects [Click Here](https://drive.google.com/file/d/1O7xhA8i7gXYA1y59pczYrXhMA9bwW6pu/view?usp=sharing)
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
@@ -47,4 +47,4 @@
 
 ## Stats📈 
 
-<p align="center"> <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant-Bhatiya&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&layout=compact&hide_border=true" alt="PrashantBhatiya" /></p>  <p align="center"> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-Bhatiya&theme=highcontrast&hide_border=true" alt="PrashantBhatiya" /></p> <p align="center">  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Prashant-Bhatiya&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&hide_border=true" alt="PrashantBhatiya" />  </p>
+<p align="left"> <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant-Bhatiya&show_icons=true&theme=dracula&title_color=ff8000&text_color=black&bg_color=black&locale=en&layout=compact&hide_border=true" alt="PrashantBhatiya" /></p>  <p align="left"> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-Bhatiya&theme=highcontrast&hide_border=true" alt="PrashantBhatiya" /></p>
