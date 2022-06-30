@@ -42,8 +42,9 @@
  <a href="https://github.com/Prashant-Bhatiya/Travelocity-clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Travelocity&color=0A438B&logo=Travelocity&logoColor=FFFFFF&label=" alt="Travelocity"/></a>  &nbsp;
  <a href="https://github.com/Prashant-Bhatiya/Stylecraze.backend.io" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Stylecraze&color=f9d3e8&logo=stylecraze&logoColor=FFFFFF&label=" alt="stylecraze"/></a>  &nbsp;
 <a href="https://github.com/Prashant-Bhatiya/Shopbop.github.io" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Shopbop&color=ff9b65&logo=Shopbop&logoColor=FFFFFF&label=" alt="shopbop" /></a> &nbsp;
+ <a href="https://github.com/Prashant-Bhatiya/ImdbClone.io" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=IMDB&color=f5c518&logo=IMDB&logoColor=FFFFFF&label=" alt="IMDB"/></a>  &nbsp;
  <a href="https://github.com/Prashant-Bhatiya/Authentication-Api" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Authentication-Api&color=6B747F&logo=Authentication-Api&logoColor=FF0000&label=" alt="Authentication-Api"/></a> &nbsp;
- <a href="https://github.com/Nitish8800/BewaKoof_Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bewakoof&color=ec4861&logo=bewakoof&logoColor=FFC504&label=" alt="bewakoof"/></a> 
+<a href="https://github.com/Nitish8800/BewaKoof_Clone" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bewakoof&color=ec4861&logo=bewakoof&logoColor=FFC504&label=" alt="bewakoof"/></a> 
 </p>
  
  
